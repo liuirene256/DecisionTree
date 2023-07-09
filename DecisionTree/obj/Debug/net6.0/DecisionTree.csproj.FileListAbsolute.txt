@@ -1,0 +1,15 @@
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\bin\Debug\net6.0\DecisionTree.exe
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\bin\Debug\net6.0\DecisionTree.deps.json
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\bin\Debug\net6.0\DecisionTree.runtimeconfig.json
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\bin\Debug\net6.0\DecisionTree.dll
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\bin\Debug\net6.0\DecisionTree.pdb
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.csproj.AssemblyReference.cache
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.AssemblyInfoInputs.cache
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.AssemblyInfo.cs
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.csproj.CoreCompileInputs.cache
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.dll
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\refint\DecisionTree.dll
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.pdb
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\DecisionTree.genruntimeconfig.cache
+C:\Users\iliu\Source\Repos\DecisionTree2022\DecisionTree\obj\Debug\net6.0\ref\DecisionTree.dll
